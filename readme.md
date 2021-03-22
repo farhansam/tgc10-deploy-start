@@ -3,7 +3,7 @@
    ```
    pip3 install flask
    pip3 install dnspython
-   pip3 install mongodb
+   pip3 install mongodb (or) pymongo
    pip3 install python-dotenv
    ```
 
